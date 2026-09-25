@@ -122,3 +122,20 @@ ScamShield/
 ├── .env.example
 ├── .gitignore
 └── README.md
+
+------------------------------------------------------------------------
+## 👨‍💻 Creator
+
+**CIPERPY**
+
+Building practical developer tools and student-focused technology projects.
+
+- GitHub: [github.com/ciperpy](https://github.com/ciperpy)
+- Website: [ciperpy.com](https://ciperpy.com)
+
+---
+
+<p align="center">
+  <strong>Made with ❤️ by CIPERPY</strong>
+</p>
+
