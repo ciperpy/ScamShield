@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = '/api/v1';
+const API_BASE_URL = 'https://scamshield-dlum.onrender.com/api/v1';
 
 export const scanUrl = async (url) => {
   const response = await axios.post(`${API_BASE_URL}/scan/url`, { url });
